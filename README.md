@@ -42,5 +42,7 @@ MIT (or whatever you prefer)
 
 ## Author
 
-Tarig Elamin  
-(Feel free to link your LinkedIn or GitHub profile.)
+Tarig Ahmed
+
+www.linkedin.com/in/tarigeahmed
+
